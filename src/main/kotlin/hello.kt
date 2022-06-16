@@ -1,12 +1,10 @@
 
-var greeting : String? = null
-var name = "Bolaji"
-
 fun main() {
-    when (greeting){
-    null -> println("Hi")
-    else ->
-    println(greeting)
-}
-    println(name)
+    val interestingThings = arrayOf("Kotlin", "Android", "Mathematics")
+    println(interestingThings.size)
+    println(interestingThings[0])
+
+    interestingThings.forEach {
+
+    }
 }
