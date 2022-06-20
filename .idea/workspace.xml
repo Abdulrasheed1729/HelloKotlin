@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd5320fa-914a-48d7-8758-cde0f87808f5" name="Changes" comment="frutti tutti">
+    <list default="true" id="fd5320fa-914a-48d7-8758-cde0f87808f5" name="Changes" comment="hello">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/hello.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hello.kt" afterDir="false" />
     </list>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653625451106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hello">
+      <created>1655341263530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655341263530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="frutti tutti" />
-    <option name="LAST_COMMIT_MESSAGE" value="frutti tutti" />
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
   </component>
 </project>
